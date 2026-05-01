@@ -18,4 +18,4 @@ I am a Computer Engineering student whose core specialization lies in embedded s
 
 ###  Let's Connect
 - **Email:** aivanklein562@gmail.com
-- **Portfolio / Case Study:** [Link to your DALLOH Case Study here]
+- **Portfolio / Case Study:** https://github.com/HZpyro99/DALLOH-Workforce-Platform
